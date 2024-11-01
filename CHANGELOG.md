@@ -1,3 +1,9 @@
+## [unreleased]
+
+* show `Countries` to allow modify it or do logic based on it
+* countries in selector displayed in order passed in countries list
+* add ru translations for countries (google translate)
+
 ## [0.7.5]
 * Fixed bug in `AsYouTypeFormatter` that could throw a `RangeError` if the user typed non digit characters
 
